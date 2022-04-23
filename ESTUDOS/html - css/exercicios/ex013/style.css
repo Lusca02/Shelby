@@ -1,0 +1,14 @@
+@charset "UTF-8";
+
+
+body{
+    background-color: transparent;
+    font-family: "Helvetica Neue";
+    font-size: 25px;
+}
+h1{
+    color: aquamarine;
+}
+p{
+    text-align: center;
+}
